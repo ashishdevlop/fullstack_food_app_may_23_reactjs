@@ -1,4 +1,4 @@
-> fullstack food delivery Application using Reactjs
+> fullStack food delivery Application using Reactjs
 > [Follow us](https://www.linkedin.com/in/ashish-sharma-7b45ba185/)
 
 ![This is the Project Thumbnail](./snap.png)
